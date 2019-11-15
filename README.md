@@ -1,0 +1,2 @@
+# servidor-ragnarok
+emulador
